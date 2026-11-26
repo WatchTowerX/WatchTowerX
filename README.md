@@ -9,9 +9,7 @@ WatchTowerX is an easy-to-use, self-hosted uptime monitoring tool with alerting 
 <a target="_blank" href="https://github.com/om-ghimire/WatchTowerX"><img src="https://img.shields.io/github/stars/om-ghimire/WatchTowerX?style=flat" /></a> <a target="_blank" href="https://github.com/om-ghimire/WatchTowerX"><img src="https://img.shields.io/github/last-commit/om-ghimire/WatchTowerX" /></a> <a target="_blank" href="https://github.com/om-ghimire/WatchTowerX/issues"><img src="https://img.shields.io/github/issues/om-ghimire/WatchTowerX" /></a> <a target="_blank" href="LICENSE"><img src="https://img.shields.io/github/license/om-ghimire/WatchTowerX" /></a>
 <a target="_blank" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white" /></a> <a target="_blank" href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /></a> <a target="_blank" href="https://react.dev/"><img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" /></a> <a target="_blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white" /></a>
 
-<!-- Add a dashboard screenshot here, e.g.:
 <img src="./docs/screenshots/dashboard.png" width="700" alt="WatchTowerX Dashboard Screenshot" />
--->
 
 ## ⭐ Features
 
